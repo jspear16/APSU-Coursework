@@ -4,10 +4,10 @@
 This program takes in various user inputs based on 3D polygons. Using the information, the program will provide the Surface Area and Volume of the various objects.
 
 # Project 2 - Curve Stitch
-Stuff
+Using various formulas for different curve stitches, a circle, lemniscate, and a rose can be generated based on specifications for user input.
 
 # Project 3 - Image Output
-Stuff
+Using gnuplot, various shapes are able to be read and plotted into a png file. The user is asked to input certain specifications to generate a specific image.
 
 # Project 4 - Image Converter
-Stuff
+This program takes in a ppm image, converts it based on user input, and ouputs a new .ppm image.
