@@ -1,3 +1,4 @@
+![Butterfly_JS](https://user-images.githubusercontent.com/51432157/116315815-aae44c00-a776-11eb-97ae-0d288dff98ad.png)
 # Information regarding the four projects for CSCI 2000 - Introduction to Computer Science with c++
 
 # Project 1 - 3D Polygon
