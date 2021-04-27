@@ -1,9 +1,13 @@
 # Information regarding the four projects for CSCI 2000 - Introduction to Computer Science with c++
 
-Other Stuff
+# Project 1 - 3D Polygon
+Stuff
 
-Other Stuff
-Other Stuff
-Other Stuff
+# Project 2 - Curve Stitch
+Stuff
 
-Other Stuff
+# Project 3 - Image Output
+Stuff
+
+# Project 4 - Image Converter
+Stuff
