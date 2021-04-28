@@ -1,4 +1,4 @@
-# Information regarding the Capstone for Computer Science
+# Information regarding the CSCI - 4805 Capstone for Computer Science
 
 This project is unfinished as it is a current project. The link to this projects repository is here:
 
