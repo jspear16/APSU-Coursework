@@ -25,7 +25,12 @@ This project was focused on being able to model the propogation of a wave throug
 
 
 ## Project 4 - Ferromagnets and Paramagnets
+This project was focused on using the Monte-Carlo method to approximate certain characteristics related to the critical temperature, such the the electric and magnetic properties of a material. Heat Capacity is also approximated using this approach. Two sample outputs:
 
+![image](https://user-images.githubusercontent.com/51432157/116422095-052bee00-a805-11eb-9ce5-96177858868a.png)
+
+
+![image](https://user-images.githubusercontent.com/51432157/116422037-f9402c00-a804-11eb-82c2-09cde3350a9b.png)
 
 
 ## Final Project - Simply Supported Beam
