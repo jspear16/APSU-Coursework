@@ -2,22 +2,15 @@
   
 C++ was used in this class. 
 
-## Assignment 1 - Wrapper Class
+## Assignment 1 - Vector
 
-This program exemplifies the wrapper programming methodology. In this program, planet objects are created and stored in a planets object. The user inputs what they want to do with with the planets or exit the program. Output is information regarding the planets. Sample output:
-
-
-
-## Assignment 2 - Vector
-
-Building off of assignment 1, this project uses vectors to add more functionality to the planets list, and allows for more efficient use of the program. Output is information regarding the planets. Sample output:
+This project uses vectors to add functionality to a planets list, and allows for more efficient use of the program by creating our own vector class. Using the vector class, it is possible to dynamically change the size of the planet list, which is the main function of a vector object. Output is information regarding the planets. Sample output:
 
 
+## Assignment 2 - Linked List
+Building off of assignment 1, this project uses linked lists to add even more functionality to the original project. Using linked list, new funcitions such as "addBack" and "addFront" are utilized, which is a feature only possible with doubly linked list. Output is information regarding the planets. Sample Output:
 
-## Assignment 3 - Linked List
-Building off of assignment 2, this project uses linked lists to add even more functionality to the original project. This program adds the ability to........
 
-
-## Assignment 4 - Infix to Prefix
-
+## Assignment 3 - Infix to Prefix
+This program utilizes the LinkedList and Stack Data Structures to convert an equation in infix notation (normal mathematical structure where the operator appears in between the two operands) to prefix notation (operators appear before the two operands). Output is a string with the prefix notation of the input equation. Sample Output:
 
