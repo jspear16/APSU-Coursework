@@ -1,7 +1,10 @@
 # Information regarding the four projects for CSCI 2000 - Introduction to Computer Science with C++
 
 # Assignment 1 - 3D Polygon
-This program takes in various user inputs based on 3D polygons. Using the information, the program will provide the Surface Area and Volume of the given object.
+This program takes in various user inputs based on 3D polygons. Using the information, the program will provide the Surface Area and Volume of the given object. Sample Output:
+
+![Example](https://user-images.githubusercontent.com/51432157/116336173-ba2ac000-a79d-11eb-88c4-e8408682e912.png)
+
 
 # Assignment 2 - Curve Stitch
 Using various formulas for different curve stitches to create either a circle, lemniscate, or a rose which is generated based on specifications from user input. Sample output:
