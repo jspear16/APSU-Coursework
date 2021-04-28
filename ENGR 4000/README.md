@@ -34,3 +34,10 @@ This project was focused on using the Monte-Carlo method to approximate certain 
 
 
 ## Final Project - Simply Supported Beam
+This project was a student picked project, and is focused on some of the principles found in a mechanics of materials class. The deflection curves and sresses found in the x-z cross section of a beam given a uniformly distributed load are modeled. Basic principles of finite element analysis are used for the 2D stress projection. Two sample outputs:
+
+![image](https://user-images.githubusercontent.com/51432157/116423966-c26b1580-a806-11eb-8d74-4dbd241375f2.png)
+
+![image](https://user-images.githubusercontent.com/51432157/116424005-ca2aba00-a806-11eb-9359-896d59e41c3f.png)
+
+
