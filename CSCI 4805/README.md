@@ -1,17 +1,7 @@
-# Information regarding the four projects for CSCI 3250 - Data Structures and Algorithms
+# Information regarding the Capstone for Computer Science
 
+This project is unfinished as it is a current project. The link to this projects repository is here:
 
-## Assignment 1 - Wrapper Class
-
-
-## Assignment 2 - Vector
-
-
-
-## Assignment 3 - Linked List
-
-
-
-## Assignment 4 - Infix to Prefix
+https://github.com/jspear16/Circuit-Board-Designer.git
 
 
