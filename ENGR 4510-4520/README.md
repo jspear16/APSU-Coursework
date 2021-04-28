@@ -1,17 +1,17 @@
-# Information regarding the four projects for CSCI 3250 - Data Structures and Algorithms
+# Information regarding the four projects for ENGR 4510 and ENGR 4520 - Senior Engineering Design I and II
 
 
-## Assignment 1 - Wrapper Class
+## Project 1 - Pump
 
 
-## Assignment 2 - Vector
-
-
-
-## Assignment 3 - Linked List
+## Project 2 - Traffic Light
 
 
 
-## Assignment 4 - Infix to Prefix
+## Project 3 - Speed Reducer
+
+
+
+## Capstone Project - Tire Shredder
 
 
