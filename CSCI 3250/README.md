@@ -1,4 +1,4 @@
-## Information regarding the four projects for CSCI 3250 - Data Structures and Algorithms
+# Information regarding the four projects for CSCI 3250 - Data Structures and Algorithms
   
 C++ was used in this class. 
 
