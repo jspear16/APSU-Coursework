@@ -9,16 +9,19 @@ This project was focused on the 3 dimensional wave equation for a hydrogen atom,
 
 
 ## Project 2 - Celestial Bodies
-This project was focused on estimating the locations of various bodies (primarily the planets) in our solar system using Verlet and the Fourth Order Runge-Kutta Methods. The initial position data was acquried from NASA's Jet Propulsion Laboratory website, and the data for the numerical methods was found from the 3 dimensional laws of gravity. Two sample output:
+This project was focused on estimating the locations of various bodies (primarily the planets) in our solar system using Verlet and the Fourth Order Runge-Kutta Methods. The initial position data was acquried from NASA's Jet Propulsion Laboratory website, and the data for the numerical methods was found from the 3 dimensional laws of gravity. Two sample outputs:
 
 ![image](https://user-images.githubusercontent.com/51432157/116417210-abc1c000-a800-11eb-9b5c-8cee714a33e0.png)
 
 ![image](https://user-images.githubusercontent.com/51432157/116417252-b419fb00-a800-11eb-91c7-4e0ffb2ae2fb.png)
 
 
-
 ## Project 3 - Manifold Propagation
+This project was focused on being able to model the propogation of a wave through various types of finite manifolds. In some cases there was no impedence to the wave, while in others, a portion of the manifold was given an impedence. Both would then be modeled over time. Two sample outputs:
 
+![image](https://user-images.githubusercontent.com/51432157/116420677-d19c9400-a803-11eb-873f-e06145bc63cd.png)
+
+![image](https://user-images.githubusercontent.com/51432157/116420712-dc572900-a803-11eb-883b-973d0450b3f4.png)
 
 
 ## Project 4 - Ferromagnets and Paramagnets
