@@ -1,4 +1,4 @@
-# Information regarding the four projects for CSCI 2000 - Introduction to Computer Science with c++
+# Information regarding the four projects for CSCI 2000 - Introduction to Computer Science with C++
 
 # Project 1 - 3D Polygon
 This program takes in various user inputs based on 3D polygons. Using the information, the program will provide the Surface Area and Volume of the given object. More detailed information in the README.md found in the Project 1 - 3D Polygon directory.
